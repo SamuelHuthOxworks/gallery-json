@@ -50,306 +50,367 @@
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/balustrade/install-balustrade-glass-1.jpg",
     "alt": "Semi-Frameless glass balustrade installed on a white painted balcony",
-    "tags": ["Balustrade"]
+    "tags": ["semi-frameless-glass"],
+    "category": "Balustrade"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/balustrade/install-balustrade-glass-2.jpg",
     "alt": "Looking through glass balustrade from a balcony down to the courtyard",
-    "tags": ["Balustrade"]
+    "tags": ["semi-frameless-glass"],
+    "category": "Balustrade"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/balustrade/install-balustrade-glass-3.jpg",
     "alt": "Apartment building with multiple levels of balconies, each with frameless glass balustrade",
-    "tags": ["Balustrade"]
+    "tags": ["semi-frameless-glass"],
+    "category": "Balustrade"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/balustrade/install-balustrade-aluminium-1.jpg",
     "alt": "Second storey decking with black aluminium balustrade",
-    "tags": ["Balustrade"]
+    "tags": ["aluminium-balustrade"],
+    "category": "Balustrade"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/balustrade/install-balustrade-aluminium-2.jpg",
     "alt": "Looking through white aluminium balustrade to a park with a lake",
-    "tags": ["Balustrade"]
+    "tags": ["aluminium-balustrade"],
+    "category": "Balustrade"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/laser-screens/install-laser-screen-1.jpg",
     "alt": "Laser cut screen fixed as a motorised sliding entry gate to a modern home",
-    "tags": ["Laser Cut Screens"]
+    "tags": ["web"],
+    "category": "Laser Cut Screens"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/laser-screens/install-laser-screen-2.jpg",
     "alt": "Decorative laser cut screen attached to a large concrete retaining wall",
-    "tags": ["Laser Cut Screens"]
+    "tags": ["web"],
+    "category": "Laser Cut Screens"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/laser-screens/install-laser-screen-3.jpg",
     "alt": "Laser cut screen attached as a privacy screen for an outdoor swimming pool",
-    "tags": ["Laser Cut Screens"]
+    "tags": ["herringbone"],
+    "category": "Laser Cut Screens"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/laser-screens/install-laser-screen-4.jpg",
     "alt": "Multiple laser cut screens installed as part of a sliding carport gate and house fence combination",
-    "tags": ["Laser Cut Screens"]
+    "tags": ["savanna"],
+    "category": "Laser Cut Screens"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/laser-screens/install-laser-screen-5.jpg",
     "alt": "Large laser cut screens applied to the lower levels of a skyscraper as a decorative piece",
-    "tags": ["Laser Cut Screens"]
+    "tags": ["web"],
+    "category": "Laser Cut Screens"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/laser-screens/install-laser-screen-6.jpg",
     "alt": "Laser cut screens installed to create a decorative entry point by some apartment complex post poxes",
-    "tags": ["Laser Cut Screens"]
+    "tags": ["stone"],
+    "category": "Laser Cut Screens"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/laser-screens/install-laser-screen-7.jpg",
     "alt": "Laser cut screens fixed to create a stylish entry point to an underground car park",
-    "tags": ["Laser Cut Screens"]
+    "tags": ["web"],
+    "category": "Laser Cut Screens"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/laser-screens/install-laser-screen-8.jpg",
     "alt": "Bronze coloured laser cut screens fixed to a deck to create privacy screens",
-    "tags": ["Laser Cut Screens"]
+    "tags": ["stone"],
+    "category": "Laser Cut Screens"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/laser-screens/install-laser-screen-9.jpg",
     "alt": "Large leaf shaped screen fixed to a stone wall in a pool enclosure",
-    "tags": ["Laser Cut Screens"]
+    "tags": ["jungle"],
+    "category": "Laser Cut Screens"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/aluminium-slats/install-ali-slat-1.jpg",
     "alt": "Grey aluminium slats install into a front brick fence behind a hedge",
-    "tags": ["Aluminium Slats"]
+    "tags": ["infill gate privacy-screen monument"],
+    "category": "Aluminium Slats"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/aluminium-slats/install-ali-slat-2.jpg",
     "alt": "red and black aluminium slat gate installed as an entry point to the side of a house",
-    "tags": ["Aluminium Slats"]
+    "tags": ["vertical gate red-cedar"],
+    "category": "Aluminium Slats"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/aluminium-slats/install-ali-slat-3.jpg",
     "alt": "Light colour aluminium slat system installed as a screen with a gate to the side of a house",
-    "tags": ["Aluminium Slats"]
+    "tags": ["gate privacy-screen primrose"],
+    "category": "Aluminium Slats"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/aluminium-slats/install-ali-slat-4.jpg",
     "alt": "Two aluminium slat gates installed as an entry point to underneath a raised home",
-    "tags": ["Aluminium Slats"]
+    "tags": ["gate privacy-screen silver-pearl"],
+    "category": "Aluminium Slats"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/aluminium-slats/install-ali-slat-5.jpg",
     "alt": "Light coloured aluminium slats installed to a courtyard of a two storey apartment complex",
-    "tags": ["Aluminium Slats"]
+    "tags": ["infill privacy-screen surfmist"],
+    "category": "Aluminium Slats"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/aluminium-slats/install-ali-slat-6.jpg",
     "alt": "Grey aluminium slat system and gate installed to create a entry screen on the side of a house",
-    "tags": ["Aluminium Slats"]
+    "tags": ["gate privacy-screen basalt"],
+    "category": "Aluminium Slats"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/aluminium-slats/install-ali-slat-7.jpg",
     "alt": "Aluminium slats installed into a brick fence to create privacy screens for a front of house courtyard",
-    "tags": ["Aluminium Slats"]
+    "tags": ["infill privacy-screen silver-pearl"],
+    "category": "Aluminium Slats"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/radiator-batten/install-radiator-batten-1.jpg",
     "alt": "Front of modern home with white radiator batten fencing and entry gate",
-    "tags": ["Radiator Batten"]
+    "tags": ["infill gate pearl-white"],
+    "category": "Radiator Batten"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/radiator-batten/install-radiator-batten-2.jpg",
     "alt": "Looking down from a Hillside home with multiple levels of retaining wall sectioned off with white radiator batten fencing",
-    "tags": ["Radiator Batten"]
+    "tags": ["fencing pearl-white"],
+    "category": "Radiator Batten"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/radiator-batten/install-radiator-batten-3.jpg",
     "alt": "Looking up at a Hillside home with multiple levels of retaining wall sectioned off with white radiator batten fencing",
-    "tags": ["Radiator Batten"]
+    "tags": ["fencing pearl-white"],
+    "category": "Radiator Batten"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/radiator-batten/install-radiator-batten-4.jpg",
     "alt": "Large property entry gate and fence with black radiator inset panels and automatic gate",
-    "tags": ["Radiator Batten"]
+    "tags": ["infill gate monument"],
+    "category": "Radiator Batten"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/radiator-batten/install-radiator-batten-5.jpg",
     "alt": "White radiator batten fence with a concrete pathway leading through a small pedestrian gate",
-    "tags": ["Radiator Batten"]
+    "tags": ["fencing gate pearl-white"],
+    "category": "Radiator Batten"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/radiator-batten/install-radiator-batten-6.jpg",
     "alt": "Front of a modern house with white radiator batten fence and pedestrian entry gate",
-    "tags": ["Radiator Batten"]
+    "tags": ["fencing gate pearl-white"],
+    "category": "Radiator Batten"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/radiator-batten/install-radiator-batten-7.jpg",
     "alt": "Side of ground level apartment with a grey radiator batten fence sectioning off the courtyard",
-    "tags": ["Radiator Batten"]
+    "tags": ["fencing monument"],
+    "category": "Radiator Batten"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/pvc-fencing/install-pvc-fencing-1.jpg",
     "alt": "Backyard with an in-ground swimming pool, contained by a tall white PVC fence",
-    "tags": ["PVC Fencing"]
+    "tags": ["east-hampton"],
+    "category": "PVC Fencing"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/pvc-fencing/install-pvc-fencing-2.jpg",
     "alt": "Tall white PVC fence along a large yard, with a large double entry gate in the middle",
-    "tags": ["PVC Fencing"]
+    "tags": ["east-hampton gate southampton"],
+    "category": "PVC Fencing"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/pvc-fencing/install-pvc-fencing-3.jpg",
     "alt": "Exterior of house-front with a raised garden and solid white PVC fence",
-    "tags": ["PVC Fencing"]
+    "tags": ["southampton"],
+    "category": "PVC Fencing"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/pvc-fencing/install-pvc-fencing-4.jpg",
     "alt": "Property front PVC fence with a pedestrian gate and a large automated entry gate",
-    "tags": ["PVC Fencing"]
+    "tags": ["southampton gate"],
+    "category": "PVC Fencing"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/pvc-fencing/install-pvc-fencing-5.jpg",
     "alt": "Interior yard with a garden bed of bushes along a tall white PVC fence",
-    "tags": ["PVC Fencing"]
+    "tags": ["southampton"],
+    "category": "PVC Fencing"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/pvc-fencing/install-pvc-fencing-6.jpg",
     "alt": "Front of house PVC fence looking through to the grassy courtyard by the front door",
-    "tags": ["PVC Fencing"]
+    "tags": ["bridgehampton"],
+    "category": "PVC Fencing"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/pvc-fencing/install-pvc-fencing-7.jpg",
     "alt": "Stepped PVC fencing following down a driveway with a pedestrian gate for access to a grass patch",
-    "tags": ["PVC Fencing"]
+    "tags": ["bridgehampton gate"],
+    "category": "PVC Fencing"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/pvc-fencing/install-pvc-fencing-8.jpg",
     "alt": "White PVC fence on top level of a retaining wall in a bushy garden",
-    "tags": ["PVC Fencing"]
+    "tags": ["bridgehampton"],
+    "category": "PVC Fencing"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/pvc-fencing/install-pvc-fencing-9.jpg",
     "alt": "Front of property white PVC fence with a latched double swing entry gate",
-    "tags": ["PVC Fencing"]
+    "tags": ["newport gate"],
+    "category": "PVC Fencing"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/pool-fencing/install-pool-fencing-1.jpg",
     "alt": "White house with large swimming pool surrounded by frameless glass pool fencing",
-    "tags": ["Pool Fencing"]
+    "tags": ["frameless-glass"],
+    "category": "Pool Fencing"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/pool-fencing/install-pool-fencing-2.jpg",
     "alt": "Backyard looking towards large house with a swimming pool surrounded by frameless glass pool fencing",
-    "tags": ["Pool Fencing"]
+    "tags": ["frameless-glass"],
+    "category": "Pool Fencing"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/pool-fencing/install-pool-fencing-3.jpg",
     "alt": "Back deck with concrete pool and frameless glass fence along the side",
-    "tags": ["Pool Fencing"]
+    "tags": ["frameless-glass gate"],
+    "category": "Pool Fencing"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/pool-fencing/install-pool-fencing-4.jpg",
     "alt": "backyard pool surrounded by frameless glass pool fence and grass gardens",
-    "tags": ["Pool Fencing"]
+    "tags": ["frameless-glass"],
+    "category": "Pool Fencing"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/pool-fencing/install-pool-fencing-5.jpg",
     "alt": "backyard with in-ground pool and glass fence with concrete stairs leading to the house",
-    "tags": ["Pool Fencing"]
+    "tags": ["frameless-glass"],
+    "category": "Pool Fencing"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/pool-fencing/install-pool-fencing-6.jpg",
     "alt": "Light stained timber deck with frameless glass fencing around a swimming pool",
-    "tags": ["Pool Fencing"]
+    "tags": ["frameless-glass"],
+    "category": "Pool Fencing"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/pool-fencing/install-pool-fencing-7.jpg",
     "alt": "In ground concrete swimming pool with glass fence and gate access to grassy areas",
-    "tags": ["Pool Fencing"]
+    "tags": ["frameless-glass"],
+    "category": "Pool Fencing"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/pool-fencing/install-pool-fencing-8.jpg",
     "alt": "Black aluminium pool fence gate closed access to the swimming pool",
-    "tags": ["Pool Fencing"]
+    "tags": ["aluminium gate homesafe"],
+    "category": "Pool Fencing"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/pool-fencing/install-pool-fencing-9.jpg",
     "alt": "Looking through a closed aluminium pool gate to the pool and trees behind",
-    "tags": ["Pool Fencing"]
+    "tags": ["aluminium gate homesafe"],
+    "category": "Pool Fencing"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/pool-fencing/install-pool-fencing-10.jpg",
     "alt": "Black aluminium pool fence and gate securing access to private river jetty",
-    "tags": ["Pool Fencing"]
+    "tags": ["aluminium gate homesafe"],
+    "category": "Pool Fencing"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/pool-fencing/install-pool-fencing-11.jpg",
     "alt": "Large grassy backyard with black aluminium pool fence sectioning off the swimming pool",
-    "tags": ["Pool Fencing"]
+    "tags": ["aluminium homesafe"],
+    "category": "Pool Fencing"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/pool-fencing/install-pool-fencing-12.jpg",
     "alt": "Backyard in-ground pool secured by aluminium pool fencing with gate access to the house",
-    "tags": ["Pool Fencing"]
+    "tags": ["aluminium gate designer avoca"],
+    "category": "Pool Fencing"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/security-fencing/install-security-1.jpg",
     "alt": "top section with pointed tips of Hercules steel security fencing",
-    "tags": ["Security Fencing"]
+    "tags": ["hercules"],
+    "category": "Security Fencing"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/security-fencing/install-security-2.jpg",
     "alt": "Hercules security fencing installed along a pathway in front of a commercial building",
-    "tags": ["Security Fencing"]
+    "tags": ["hercules"],
+    "category": "Security Fencing"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/security-fencing/install-security-3.jpg",
     "alt": "Hercules steel fencing installed along a pathway in front of a row of trees",
-    "tags": ["Security Fencing"]
+    "tags": ["hercules"],
+    "category": "Security Fencing"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/security-fencing/install-security-4.jpg",
     "alt": "Hercules security fencing in front of a school building",
-    "tags": ["Security Fencing"]
+    "tags": ["hercules"],
+    "category": "Security Fencing"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/security-fencing/install-security-5.jpg",
     "alt": "Hercules security fencing installed along a path in front of school grounds",
-    "tags": ["Security Fencing"]
+    "tags": ["hercules"],
+    "category": "Security Fencing"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/aluminium-picket/install-ali-picket-1.jpg",
     "alt": "Large white timber house, with a white brick fence with aluminium picket inserts ",
-    "tags": ["Aluminium Picket"]
+    "tags": ["colonial fencing gate"],
+    "category": "Aluminium Picket"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/aluminium-picket/install-ali-picket-2.jpg",
     "alt": "Two storey duplex house with colonial style aluminium picket fencing at the front boundary",
-    "tags": ["Aluminium Picket"]
+    "tags": ["colonial fencing"],
+    "category": "Aluminium Picket"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/aluminium-picket/install-ali-picket-3.jpg",
     "alt": "Aluminium picket fence, automated sliding and pedestrian entry gates installed on the front of suburban property",
-    "tags": ["Aluminium Picket"]
+    "tags": ["colonial gate"],
+    "category": "Aluminium Picket"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/aluminium-picket/install-ali-picket-4.jpg",
     "alt": "Classic style aluminium picket fence installed along a sports field",
-    "tags": ["Aluminium Picket"]
+    "tags": ["classic fencing"],
+    "category": "Aluminium Picket"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/motorised-gates/install-motorised-gate-1.jpg",
     "alt": "Motorised sliding gate components installed behind a structural fence wall",
-    "tags": ["Motorised Gates"]
+    "tags": ["sliding-gate"],
+    "category": "Motorised Gates"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/motorised-gates/install-motorised-gate-2.jpg",
     "alt": "Front driveway and boundary fence with a large radiator batten sliding gate",
-    "tags": ["Motorised Gates"]
+    "tags": ["sliding-gate"],
+    "category": "Motorised Gates"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/motorised-gates/install-motorised-gate-3.jpg",
     "alt": "Radiator batten motorised sliding gate closed across a private property driveway",
-    "tags": ["Motorised Gates"]
+    "tags": ["sliding-gate"],
+    "category": "Motorised Gates"
   }
 ]
