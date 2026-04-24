@@ -596,19 +596,31 @@
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/motorised-gates/install-motorised-gate-1.jpg",
     "alt": "Motorised sliding gate components installed behind a structural fence wall",
-    "tags": ["sliding-gate"],
+    "tags": ["sliding-gate laser-cut-screen"],
     "category": "Motorised Gates"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/motorised-gates/install-motorised-gate-2.jpg",
     "alt": "Front driveway and boundary fence with a large radiator batten sliding gate",
-    "tags": ["sliding-gate"],
+    "tags": ["sliding-gate radiator-batten"],
     "category": "Motorised Gates"
   },
   {
     "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/motorised-gates/install-motorised-gate-3.jpg",
     "alt": "Radiator batten motorised sliding gate closed across a private property driveway",
-    "tags": ["sliding-gate"],
+    "tags": ["sliding-gate radiator-batten"],
+    "category": "Motorised Gates"
+  },
+  {
+    "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/motorised-gates/install-motorised-gate-4.jpg",
+    "alt": "",
+    "tags": ["sliding-gate laser-cut-screen"],
+    "category": "Motorised Gates"
+  },
+  {
+    "src": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/5ec0094a58a6edb7f7709c6774594487/contents/ckfinder/images/Customer-Product-Installation-Gallery/motorised-gates/install-motorised-gate-5.jpg",
+    "alt": "Large batten sliding entry gate opening to double garage and house",
+    "tags": ["sliding-gate radiator-batten"],
     "category": "Motorised Gates"
   }
 ]
